@@ -1,0 +1,1 @@
+// 改变 State 的唯一办法，就是使用 Action。它会运送数据到 Store。
